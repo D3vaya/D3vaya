@@ -26,4 +26,4 @@ __Some things that I have learned in these years__
 - Instagram - [d3vaya](https://www.instagram.com/d3vaya/)
 - Facebook - [Facebook](https://www.facebook.com/juancarlos.ayalahigguera)
 - Xbox - __KriSs1O__ 🎮
- ### 📫 and if you want to offend me personally, I'll leave you my email ♥  [mail](mailto:j.ayala.higuera@gmail.com)
+ ### 📫 If you want to offend me in a more personal way, I'll leave you my email ♥  [mail](mailto:j.ayala.higuera@gmail.com) 
