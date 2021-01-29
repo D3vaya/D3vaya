@@ -7,10 +7,10 @@ I'm a fan of programming, soccer ⚽ and animals 🐶🐱
 
 __Some things that I have learned in these years__
 * FrontEnd Technologies
-    * 🗣 Angular | React | Elm
-    * 🛢️Redux|Ngrx
-    * ⚡ Webpack
-    * HTML | CSS | <3 JS <3
+    * ✔️ Angular | React | Elm
+    * ✔️️Redux|Ngrx
+    * ✔️Webpack
+    * ✔️HTML | CSS | <3 JS <3
 * BackEnd Technologies
     * ✔️ PHP | Python | Ruby | Node.js
     * ✔️ Express | Django | RoR | CakePHP/Laravel
