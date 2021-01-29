@@ -1,5 +1,5 @@
 
-![profile image](https://firebasestorage.googleapis.com/v0/b/zaurus.appspot.com/o/sc2.jpeg?alt=media&token=b19ffa3d-92dd-4bfc-8bdc-01283a141714#center)
+![profile image](https://firebasestorage.googleapis.com/v0/b/zaurus.appspot.com/o/sc2figma2.png?alt=media&token=ad6e8457-a4d6-46e5-9c91-38ac8bbcd83a#center)
 # ♥ Hi, I am Juan Carlos Ayala 👋🇨🇱
 I'm a fan of programming, soccer ⚽ and animals 🐶🐱
 
@@ -26,4 +26,4 @@ __Some things that I have learned in these years__
 - Instagram - [d3vaya](https://www.instagram.com/d3vaya/)
 - Facebook - [Facebook](https://www.facebook.com/juancarlos.ayalahigguera)
 - Xbox - __KriSs1O__ 🎮
- ### 📫 and if you want to offend me personally, I'll leave you my email ♥  [mail](mailto:j.ayala.higuera@gmail.com) 
+ ### 📫 and if you want to offend me personally, I'll leave you my email ♥  [mail](mailto:j.ayala.higuera@gmail.com)
