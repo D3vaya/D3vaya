@@ -1,5 +1,5 @@
 
-![profile image](https://firebasestorage.googleapis.com/v0/b/zaurus.appspot.com/o/sc2figma2.png?alt=media&token=ad6e8457-a4d6-46e5-9c91-38ac8bbcd83a#center)
+![profile image](https://firebasestorage.googleapis.com/v0/b/zaurus.appspot.com/o/profile.png?alt=media&token=d64f35c5-f4b8-4d52-9e6d-bdc53a483c2c#center)
 # ♥ Hi, I am Juan Carlos Ayala 👋🇨🇱
 I'm a fan of programming, soccer ⚽ and animals 🐶🐱
 
