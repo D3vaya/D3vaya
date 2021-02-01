@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/D3vaya/D3vaya/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![profile image](https://firebasestorage.googleapis.com/v0/b/zaurus.appspot.com/o/profile.png?alt=media&token=d64f35c5-f4b8-4d52-9e6d-bdc53a483c2c#center)
+# ♥ Hi, I am Juan Carlos Ayala 👋🇨🇱
+I'm a fan of programming, soccer ⚽ and animals 🐶🐱
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## ⚡ Tech Stack
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/D3vaya/D3vaya/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+__Some things that I have learned in these years__
+* FrontEnd Technologies
+    * ✔️ Angular | React | Elm
+    * ✔️️Redux|Ngrx
+    * ✔️Webpack
+    * ✔️HTML | CSS | <3 JS <3
+* BackEnd Technologies
+    * ✔️ PHP | Python | Ruby | Node.js
+    * ✔️ Express | Django | RoR | CakePHP/Laravel
+* I am currently learning
+    * ⚡ Svelte.js
+     * ⚡ GO
+    * ⚡ RUST
+    * ⚡ DENO
+     * ⚡ Elixir | Phoenix
+## 🌐 My social networks
+- LinkedIn - [Juan Carlos ayala](https://www.linkedin.com/in/juan-carlos-ayala-higuera-50520a62/)
+- Twitter - [@d3vaya](https://twitter.com/D3vAya)
+- Instagram - [d3vaya](https://www.instagram.com/d3vaya/)
+- Facebook - [Facebook](https://www.facebook.com/juancarlos.ayalahigguera)
+- Xbox - __KriSs1O__ 🎮
+ ### 📫 If you want to offend me in a more personal way, I'll leave you my email ♥  [mail](mailto:j.ayala.higuera@gmail.com) 
