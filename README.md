@@ -1,7 +1,7 @@
 
 ![profile image](https://firebasestorage.googleapis.com/v0/b/zaurus.appspot.com/o/profile.png?alt=media&token=d64f35c5-f4b8-4d52-9e6d-bdc53a483c2c#center)
 
-Hi 👋 My name is Juan Carlo
+Hi 👋 My name is Juan Carlos
 ===========================
 
 software engineer
