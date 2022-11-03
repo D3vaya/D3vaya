@@ -13,7 +13,7 @@ I have been dedicated to software development for 8 years. I am a fan of knowled
 * ✉️  You can contact me at [j.ayala.higuera@gmail.com](mailto:j.ayala.higuera@gmail.com)
 * 🚀  I'm currently working on [Ecommerce Wom](http://store.wom.cl)
 * 🧠  I'm learning Golang and Elixir.
-* 🤝  I'm open to collaborating on Proyectos animalistas
+* 🤝  I'm open to collaborating on Animalist Projects.
 
 ### Skills
 
