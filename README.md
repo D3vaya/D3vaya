@@ -7,12 +7,12 @@ Hi 👋 My name is Juan Carlos
 software engineer
 -----------------
 
-I have been dedicated to software development for 8 years. I am a fan of knowledge and football. I read mangas.
+I have been dedicated to software development for 9 years. I am a fan of knowledge and football. I read mangas.
 
 * 🌍  I'm based in Santiago, 🇨🇱.
 * ✉️  You can contact me at [j.ayala.higuera@gmail.com](mailto:j.ayala.higuera@gmail.com)
 * 🚀  I'm currently working on [Ecommerce Wom](http://store.wom.cl)
-* 🧠  I'm learning Golang and Elixir.
+* 🧠  I'm learning Golang, Elixir and Astro.
 * 🤝  I'm open to collaborating on Animalist Projects.
 
 ### Skills
