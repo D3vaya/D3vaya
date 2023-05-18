@@ -11,7 +11,7 @@ I have been dedicated to software development for 9 years. I am a fan of knowled
 
 * 🌍  I'm based in Santiago, 🇨🇱.
 * ✉️  You can contact me at [j.ayala.higuera@gmail.com](mailto:j.ayala.higuera@gmail.com)
-* 🚀  I'm currently working on [Ecommerce Wom](http://store.wom.cl)
+* 🚀  I'm currently working on MercadoLibre
 * 🧠  I'm learning Golang, Elixir and Astro.
 * 🤝  I'm open to collaborating on Animalist Projects.
 
