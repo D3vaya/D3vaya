@@ -7,7 +7,7 @@ Hi 👋 My name is Juan Carlos
 software engineer
 -----------------
 
-I have been dedicated to software development for 9 years. I am a fan of knowledge and football. I read mangas.
+I have been dedicated to software development for 10 years. I am a fan of knowledge and football. I read mangas.
 
 * 🌍  I'm based in Santiago, 🇨🇱.
 * ✉️  You can contact me at [j.ayala.higuera@gmail.com](mailto:j.ayala.higuera@gmail.com)
