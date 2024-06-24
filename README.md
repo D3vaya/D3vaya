@@ -11,7 +11,7 @@ I have been dedicated to software development for 10 years. I am a fan of knowle
 
 * 🌍  I'm based in Santiago, 🇨🇱.
 * ✉️  You can contact me at [j.ayala.higuera@gmail.com](mailto:j.ayala.higuera@gmail.com)
-* 🚀  I'm currently working on MercadoLibre
+* 🚀  I'm currently working on ETpay
 * 🧠  I'm learning Golang, Elixir and Astro.
 * 🤝  I'm open to collaborating on Animalist Projects.
 
