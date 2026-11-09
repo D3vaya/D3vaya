@@ -18,6 +18,7 @@
 ### ⚡ Now
 
 - 🏢 **Head of Engineering @ Porteria®** — leading the team that builds and ships the platform.
+- 🏰 Creator of [**Carcassonne LATAM**](https://carcassonne-latam.com/) — the best platform to play Carcassonne online in Latin America.
 - 🚩 Maintaining [**pennants**](https://github.com/D3vaya/pennants), an open-source library with 271 country flags in every shape.
 - 🧪 Exploring Elixir / Phoenix LiveView, Go and Astro on the side.
 - ⚽ Football, 📚 manga and games when the laptop is closed.
@@ -31,6 +32,13 @@
 ### 🚀 Featured work
 
 <table>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>🏰 <a href="https://carcassonne-latam.com/">Carcassonne LATAM</a></h3>
+      <p><b>The best platform to play Carcassonne online in Latin America.</b> Lay tiles, claim cities and roads, and play against friends from all over the region — right from the browser.</p>
+      <a href="https://carcassonne-latam.com/"><img src="https://img.shields.io/badge/play-carcassonne--latam.com-22c55e?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Play at carcassonne-latam.com" /></a>
+    </td>
+  </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>🚩 <a href="https://github.com/D3vaya/pennants">pennants</a></h3>

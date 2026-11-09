@@ -313,6 +313,7 @@ function neofetch({ year, user }) {
   const rows = [
     ["user", `${PROFILE.alias}@github`],
     ["role", `${PROFILE.role} @ ${PROFILE.company}`],
+    ["creator", "carcassonne-latam.com"],
     ["host", PROFILE.location],
     ["uptime", `${year - PROFILE.codingSince} years writing code (since ${PROFILE.codingSince})`],
     ["shell", PROFILE.shell],
